@@ -1,0 +1,128 @@
+.main-container{
+    background: #D8F4EC;
+    padding: 70px;
+    display: flex;
+    flex-direction: row;
+}
+.first-container{ 
+    background: #FFFFFF;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    padding: 20px;
+}
+.second-container{
+    width: 607px;
+    height: 564px;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.date-text {
+    display: flex;
+    width: 99%;
+    justify-content: right;
+}
+
+.answers-con {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    /* margin: 5%; */
+}
+
+.answers {
+    color: #208C84;
+}
+
+.green-border {
+    margin: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #208C84;
+    border-radius: 18px;   
+}
+
+.selected-filter {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.dropdown-container {
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-data{
+width: 54.69px;
+height: 53.77px;
+margin: 13px;
+
+}
+.user-img{
+    width: 662.48px;
+    height: 716px;
+}
+.first-container-test{
+    color: #208C84;
+}
+.img-button{
+    position: relative;
+    margin: 100px;
+    margin-inline: unset;
+}
+ 
+.test-sub{
+    font-size: 48px;  
+  font-family: "Poppins";
+
+}
+.para_for_multipele_layers{
+    font-size: 48px;  
+    font-family: "Poppins";  
+}
+.hover-zoom {
+    transition: all ease 0.3s;
+  }
+  .hover-zoom:hover {
+    transform: scale(1.03);
+  }
+
+  .user-data {
+    background: #f4f4f4;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    padding: 12px 22px;
+  }
+  .user-data.no-accordian {
+    background: #e8f8f2;
+  }
+  span {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #191919;
+  }
+  h3 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    color: #191919;
+    margin: 0;
+  }
+  .meta-data {
+    margin-left: 10px;
+  }
+  .user-avatar {
+    width: 54px;
+    height: 54px;
+  }
+.profile-name {
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,85 @@
+.first-main-container{
+    background-image: url("../images/Rectangle 57 (1).jpg"); 
+     padding: 70px;
+}
+.first-card-data{
+background: #D8F4EC;
+}
+.second-card-data{
+background: #C2DDE4;
+}
+.third-card-data{
+background: #EDEEC6;
+}
+.fourth-card-data{
+background: #3DC9A1;
+}
+.online-Legal-text-color{
+    color: #3DC9A1;
+}
+.first-child-container{
+    padding: 50px;
+}
+
+.hero_section_first
+{
+    background: #f4fefa;
+    height: 630px;
+}
+
+ 
+.cstm_img_btn {
+    width: 208px;
+    text-align: left;
+ }
+ 
+ 
+.main-container-data.container {
+    /* width: 1545px; */
+    margin-left: 28px;
+    /* margin-right: 79px !important; */
+    padding: 100px;
+}
+.we_coonect_section {
+    background: #f4fefa;
+    height: 900px;
+}
+.img-wrapper{
+    overflow:hidden;
+  }
+  .hover-zoom:hover {
+    transform: scale(1.1);
+  }
+  
+
+  .hero-analytics-wrap {
+    text-align: center;
+    margin-top: -140px;
+  }
+
+  .hero-analytics {
+    display: inline-flex;
+    background-color: #fff;
+    padding: 18px 56px 16px 56px;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 75px;
+  }
+  p {
+    margin: 0;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    color: #191919;
+  }
+  h1 {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 40px;
+    color: #208c84;
+  }
+  .inner-block {
+    margin: 0 80px;
+   
+   
+  }
